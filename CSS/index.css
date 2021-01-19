@@ -1,0 +1,23 @@
+#content img {
+    display: block;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+
+#content h2 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-decoration: underline;
+}
+
+h5{
+    font-style: italic;
+    text-align: center;
+    margin: 0px 20px;
+}
+h6{
+    font-style: italic;
+    text-align: center;
+    margin: 10px auto;
+}

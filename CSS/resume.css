@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin: 0px auto;
+    text-decoration: underline;
+    padding: 10px 0;
+}
+
+h3 {
+    text-align: center;
+    margin: 0px auto;
+}
+
+#content ul {
+    margin: 0 auto;
+    padding: 10px 50px 25px 80px;
+}

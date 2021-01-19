@@ -1,0 +1,83 @@
+/* nav items in top left corner */
+#pages .navitem {
+    padding: 0px 10px;
+    margin: 10px 0px;
+    display: inline-block;
+}
+
+/* Logo in top left */
+#topnav #pages img {
+    float: left;
+}
+
+/* list containing nav items in top left*/
+#topnav #pages ul{
+    float: left;
+    margin: 0 auto;
+    align-items: center;
+}
+
+/* Add a black background color to the top navigation */
+#topnav {
+    height: 50px;
+    background-color: #333;
+}
+  
+/* Style the links inside the navigation bar */
+#pages .navitem a {
+    color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Change the color of links on hover */
+#pages .navitem a:hover {
+    text-decoration: underline;
+}
+
+
+/* dropdown menu in top left*/
+#pages .dropbtn {
+    background-color: #650da0;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+#pages .dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#pages .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 80px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+#pages .dropdown-content a {
+    color: black;
+    padding: 6px 8px;
+    text-decoration: none;
+    display: block;
+}
+
+#pages .dropdown-content a:hover {background-color: #f1f1f1}
+
+#pages .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#pages .dropdown:hover .dropbtn {
+    background-color: #5E08A8
+}
+
+  
+  

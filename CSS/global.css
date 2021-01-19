@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background: rgb(204, 199, 199);
+    display: block;
+}
+
+#content {
+    margin: 0 auto;
+    width: 50%;
+    background: #ddd;
+    font-family: 'Cormorant Garamond', serif;
+    box-shadow: 12px 0 15px -4px rgba(72, 82, 94, 0.8), -12px 0 8px -4px rgba(72, 82, 94, 0.8);
+}
+
+#content p {
+    text-indent: 2em;
+    margin: 0 auto;
+    padding: 10px 50px;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}
