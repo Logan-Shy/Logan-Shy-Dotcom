@@ -19,6 +19,13 @@ body {
     padding: 10px 50px;
 }
 
+#content h2 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+    text-decoration: underline;
+}
+
 footer{
     text-align: center;
     font-size: 10px;
