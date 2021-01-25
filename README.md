@@ -5,7 +5,7 @@ www.loganShy.com
 
 ## Contents
 The directory currently holds these files:
-- Index file
+- index file
 - HTML directory
 - CSS directory
 - images directory
